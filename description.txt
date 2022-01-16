@@ -1,0 +1,5 @@
+ondragstart: This event handler will be attached to our draggable element and fire when a dragstart event occurs.
+
+ondragover: This event handler will be attached to our dropzone element and fire when a dragover event occurs.
+
+ondrop: This event handler will also be attached to our dropzone element and fire when a drop event occurs.
